@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: piflux
+Version: 0.1.dev64
+Summary: Parallel Inference for FLUX
+Author-email: Zeyi Cheng <ichengzeyi@gmail.com>
+Project-URL: Repository, https://github.com/chengzeyi/piflux
+Requires-Python: >=3.8
+Requires-Dist: torch
+Requires-Dist: diffusers
+Provides-Extra: all
+Provides-Extra: dev
+Requires-Dist: pre-commit; extra == "dev"
+Requires-Dist: pytest; extra == "dev"

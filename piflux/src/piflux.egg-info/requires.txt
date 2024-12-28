@@ -1,0 +1,8 @@
+torch
+diffusers
+
+[all]
+
+[dev]
+pre-commit
+pytest
