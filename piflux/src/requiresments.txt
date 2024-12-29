@@ -1,0 +1,6 @@
+pip install git+https://github.com/huggingface/diffusers.git
+torch
+transformers
+accelerate
+sentencepiece
+protobuf

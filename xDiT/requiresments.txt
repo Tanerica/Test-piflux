@@ -1,0 +1,15 @@
+git+https://github.com/huggingface/diffusers.git
+torch
+transformers
+accelerate
+sentencepiece
+protobuf
+beautifulsoup4>=4.12.3
+distvae
+yunchang
+pytest
+flask
+opencv-python
+imageio
+imageio-ffmpeg
+optimum-quanto
