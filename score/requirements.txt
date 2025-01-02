@@ -1,0 +1,8 @@
+xgboost
+git+https://github.com/openai/CLIP.git
+imagehash
+numpy 
+imagehash
+pydantic
+torch
+scikit-learn==1.5.2

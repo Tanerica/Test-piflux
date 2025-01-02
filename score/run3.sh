@@ -1,0 +1,1 @@
+python compute_score.py --normal_dir "/workspace/normal/normal_output" --expected_dir "/workspace/piflux/src/3step"
